@@ -1,0 +1,4 @@
+hsCosa
+======
+
+Haskell COSA
